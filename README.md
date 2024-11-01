@@ -1,6 +1,6 @@
 # BreakOutAi
-<div>It is the Ai tool which constantly monitors stocks poised for significant upside moves, ensuring you don't miss out on lucrative opportunities.</div>
-For more detail check the official website of the [Breakoutai](https://breakoutai.tech/).
+It is the Ai tool which constantly monitors stocks poised for significant upside moves, ensuring you don't miss out on lucrative opportunities.
+For more detail check the official website of the [Breakoutai](https://breakoutai.tech/) .
 
 ## Table of Content
 - [Libraries](#Libraries)
