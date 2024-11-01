@@ -6,6 +6,7 @@ For more detail check the official website of the [Breakoutai](https://breakouta
 - [Libraries](#Libraries)
 - [Retrieve Data](#Retrieve-Data)
 - [Margin and Premium](#Margin-and-Premium)
+- [Help](#Help)
 
 
 ## Libraries
@@ -39,3 +40,10 @@ pip install pandas
     - `Premium` = `lot_size`*`bid/ask`     
 
 - Can calulate margin for `SELL` or `BUY` as per you wish
+
+## Help
+- In this project i stuck in some problems but the problems is solved with the help of the ai such as `Chatgpt`.
+
+- As i use broker api of upstox so many of the problems are solved by their `documentation`.
+
+- And at last by some `youtube` channel.
