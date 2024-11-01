@@ -27,9 +27,9 @@ pip install pandas
   
 - This function check for PE and CE for each strike price and calculate the data accordingly.
     
-    - IF `Instrument_key` == PE
+    - IF `Instrument_type` == PE
         - Than the data calculated with respect to PE than it will select the highest bid price from the put function.
-    - If `Instrument_key` == CE
+    - If `Instrument_type` == CE
         - Than the data calcualted with respect to CE than it will select the highest ask price from the call function.
 
 ## Margin and Premium
