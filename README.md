@@ -36,5 +36,6 @@ pip install pandas
 - This function is used to calculate the premium and find the margin of the stock.
   
 - Premium should be calculated with the api.
+    - `Premium` = `lot_size`*`bid/ask`     
 
 - Can calulate margin for `SELL` or `BUY` as per you wish
